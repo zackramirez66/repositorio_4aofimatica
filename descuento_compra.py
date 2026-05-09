@@ -1,4 +1,4 @@
-# Zack Ramirez Ramirez
+# zoe tanairy ramirez bernal 
 
 compra = 1500
 
