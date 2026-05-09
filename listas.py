@@ -1,4 +1,4 @@
-# Zack Ramirez Ramirez
+# zoe tanairy ramirez bernal 
 
 frutas = ["Manzana", "Pera", "Uva", "Sandía"]
 
