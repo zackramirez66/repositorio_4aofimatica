@@ -1,4 +1,4 @@
-# Zack Ramirez Ramirez
+# zoe tanairy ramirez bernal 
 
 cal1 = 8
 cal2 = 9
