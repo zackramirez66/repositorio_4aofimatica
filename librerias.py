@@ -1,4 +1,4 @@
-# Zack Ramirez Ramirez
+# Zoe tanairy ramirez bernal
 
 import math
 
